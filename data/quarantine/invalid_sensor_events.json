@@ -1,0 +1,11 @@
+[
+    {
+        "event_id": "example-id",
+        "shipment_id": "SHP001",
+        "temperature_c": 5.2,
+        "humidity_pct": 120,
+        "errors": [
+            "Humidity must be between 0 and 100"
+        ]
+    }
+]

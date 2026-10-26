@@ -1,0 +1,92 @@
+[
+    {
+        "event_id": "a796a04a-14f7-4ed8-a69b-7f832dfbd117",
+        "shipment_id": "SHP001",
+        "city": "Delhi",
+        "temperature_c": 5.86,
+        "humidity_pct": 78.52,
+        "sensor_id": "SENSOR-SHP001",
+        "recorded_at": "2026-10-26T19:48:02.155321+00:00"
+    },
+    {
+        "event_id": "04658e46-f54d-46b4-9250-34d379ecbc0c",
+        "shipment_id": "SHP002",
+        "city": "Mumbai",
+        "temperature_c": 2.32,
+        "humidity_pct": 30.83,
+        "sensor_id": "SENSOR-SHP002",
+        "recorded_at": "2026-10-26T19:48:02.155345+00:00"
+    },
+    {
+        "event_id": "cc257af3-9bd1-4d18-a8f8-e2a76aa2d76c",
+        "shipment_id": "SHP003",
+        "city": "Bengaluru",
+        "temperature_c": 7.08,
+        "humidity_pct": 33.18,
+        "sensor_id": "SENSOR-SHP003",
+        "recorded_at": "2026-10-26T19:48:02.155355+00:00"
+    },
+    {
+        "event_id": "5d74e395-f508-4341-9a04-d646b9f46b2d",
+        "shipment_id": "SHP004",
+        "city": "Hyderabad",
+        "temperature_c": 6.95,
+        "humidity_pct": 66.24,
+        "sensor_id": "SENSOR-SHP004",
+        "recorded_at": "2026-10-26T19:48:02.155361+00:00"
+    },
+    {
+        "event_id": "2ee2bfb5-92c8-4b1a-a567-a7e789cdce12",
+        "shipment_id": "SHP005",
+        "city": "Chennai",
+        "temperature_c": 5.4,
+        "humidity_pct": 79.39,
+        "sensor_id": "SENSOR-SHP005",
+        "recorded_at": "2026-10-26T19:48:02.155368+00:00"
+    },
+    {
+        "event_id": "b68e8915-1bff-4a5c-aba0-5a76f372f038",
+        "shipment_id": "SHP001",
+        "city": "Delhi",
+        "temperature_c": -4.24,
+        "humidity_pct": 40.46,
+        "sensor_id": "SENSOR-SHP001",
+        "recorded_at": "2026-10-26T19:55:35.532721+00:00"
+    },
+    {
+        "event_id": "50b5ee1d-d5ad-43e6-b720-35af67a96999",
+        "shipment_id": "SHP002",
+        "city": "Mumbai",
+        "temperature_c": 6.18,
+        "humidity_pct": 74.22,
+        "sensor_id": "SENSOR-SHP002",
+        "recorded_at": "2026-10-26T19:55:35.532762+00:00"
+    },
+    {
+        "event_id": "bc5dc11e-2917-40af-ba4d-6528aa734cc4",
+        "shipment_id": "SHP003",
+        "city": "Bengaluru",
+        "temperature_c": 5.14,
+        "humidity_pct": 41.54,
+        "sensor_id": "SENSOR-SHP003",
+        "recorded_at": "2026-10-26T19:55:35.532776+00:00"
+    },
+    {
+        "event_id": "885ba584-24d9-4b9d-a87e-88c9b9b78e7f",
+        "shipment_id": "SHP004",
+        "city": "Hyderabad",
+        "temperature_c": -4.73,
+        "humidity_pct": 35.06,
+        "sensor_id": "SENSOR-SHP004",
+        "recorded_at": "2026-10-26T19:55:35.532793+00:00"
+    },
+    {
+        "event_id": "d379ef52-cd90-4a21-9bc5-47959e444642",
+        "shipment_id": "SHP005",
+        "city": "Chennai",
+        "temperature_c": 4.17,
+        "humidity_pct": 62.36,
+        "sensor_id": "SENSOR-SHP005",
+        "recorded_at": "2026-10-26T19:55:35.532804+00:00"
+    }
+]
